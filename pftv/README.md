@@ -2,7 +2,7 @@
 
 First draft. Handle with care.
 
-# Object Heirarchy 
+# Object Hierarchy 
 
 PFTV = {
   show: {
